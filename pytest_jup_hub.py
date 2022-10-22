@@ -1,7 +1,6 @@
 # -*- coding: utf-8 -*-
 
 import pytest
-from firstuseauthenticator import FirstUseAuthenticator
 
 def pytest_addoption(parser):
     group = parser.getgroup('jup_hub')
