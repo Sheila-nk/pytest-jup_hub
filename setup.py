@@ -47,5 +47,4 @@ setup(
             'jup_hub = pytest_jup_hub',
         ],
     },
-    classifiers=["Framework :: Pytest"]
 )
