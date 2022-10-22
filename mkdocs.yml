@@ -1,0 +1,10 @@
+site_name: pytest-jup_hub
+site_description: "Simle re-usable JupyterHub pytest plugin"
+site_author: Sheila Kahwai
+
+theme: readthedocs
+
+repo_url: https://github.com/Sheila-nk/pytest-jup_hub
+
+pages:
+- Home: index.md
