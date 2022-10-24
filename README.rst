@@ -14,7 +14,7 @@ pytest-jup_hub
     :target: https://ci.appveyor.com/project/Sheila-nk/pytest-jup_hub/branch/master
     :alt: See Build Status on AppVeyor
 
-"Simle re-usable JupyterHub pytest plugin"
+"Simple re-usable JupyterHub pytest plugin"
 
 ----
 

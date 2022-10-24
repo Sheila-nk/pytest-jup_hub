@@ -24,6 +24,6 @@ def bar(request):
 @pytest.fixture
 def firstuseauthenticator_configured():
     """firstuseauthenticator object with min_password_length set to 10"""
-    obj = FirstUseAuthenticator()
-    obj.min_password_length = 10
-    return obj
+    auth = FirstUseAuthenticator()
+    auth.min_password_length = 10
+    return auth
