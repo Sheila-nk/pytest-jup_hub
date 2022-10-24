@@ -1,1 +1,1 @@
-pytest_plugins = ['pytester', 'firstuseauthenticator_configured']
+pytest_plugins = ['pytester']
